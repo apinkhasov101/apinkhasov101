@@ -2,7 +2,8 @@
 
 I'm a software developer passionate about debugging and optimizing codebases, as well as designing modular full-stack applications that help developers connect communities through technology.
 
-- 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/arnold-pinkhasov/)!
+- 📫 How to reach me: Let's connect on <a href="https://linkedin.com/in/arnold-pinkhasov" rel="nofollow">
+ <img align="center" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="[arnold-pinkhasov]" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 - 💬 Ask me about: [My "why"](https://youtu.be/jEilXVWO1UM)
 - 🌱 I’m currently learning: [About AI](https://youtu.be/93MBVvaAZXo) <br></br>
 
