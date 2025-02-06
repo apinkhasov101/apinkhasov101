@@ -4,5 +4,4 @@ I'm a software developer passionate about debugging and optimizing codebases, as
 
 - 📫 How to reach me: Let's connect on [LinkedIn](https://www.linkedin.com/in/arnold-pinkhasov/)!
 - 💬 Ask me about: [My "why"](https://youtu.be/jEilXVWO1UM)
-- ⚡ Fun fact: [I enjoy speaking](https://youtu.be/93MBVvaAZXo)
 - 🌱 I’m currently learning: [About AI](https://youtu.be/93MBVvaAZXo)
