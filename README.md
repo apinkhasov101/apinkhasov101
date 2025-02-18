@@ -5,7 +5,9 @@ I'm a software developer passionate about debugging and optimizing codebases, as
 - 📫 How to reach me: Let's connect on <a href="https://linkedin.com/in/arnold-pinkhasov" rel="nofollow">
  <img align="center" src="https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="[arnold-pinkhasov]" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 - 💬 Ask me about: [My "why"](https://youtu.be/jEilXVWO1UM)
-- 🌱 I’m currently learning: [About AI](https://youtu.be/93MBVvaAZXo) <br></br>
+- 🌱 I’m currently learning: [About AI](https://youtu.be/93MBVvaAZXo) 
+- 📺 I'll never shut up about: [Streaming Protocols and why they're awesome](https://youtu.be/ZykgJEG7iXY)<br></br>
+
 
 **Languages and Technologies:**<br></br>
 <a href="https://aws.amazon.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;"> </a>
